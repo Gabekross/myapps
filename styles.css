@@ -1,0 +1,36 @@
+body{
+
+   
+    background-color: burlywood;
+    
+    font-family:  sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.ISSSbox{
+    width: 60%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.lat{
+    color: brown;
+
+
+}
+.long{
+    color: green;
+}
+.alt{
+    color:purple;
+}
+
+.btn{
+    background-color: blue;
+    color: azure;
+    font-size: larger;
+}
